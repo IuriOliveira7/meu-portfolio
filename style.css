@@ -16,15 +16,17 @@ body{
     width: 100%;
     height: 25rem;
 }
+
 .perfil-foto{
     width: 422px;
     height: 422px;
-    background-image: url(/img/perfil.png);
+    background-image: url("./img/perfil.png");
     background-repeat: no-repeat, repeat;
     background-size: cover;
     background-position: 50% 50%;
     margin: -343px auto 0;
 }
+
 
 .nome h1{
     color: white;
